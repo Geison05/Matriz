@@ -38,7 +38,7 @@ namespace Project
                     }
                 }
             }
-            Console.WriteLine("Negative number: "+ cont);
+            Console.WriteLine("Negative numbers: "+ cont);
         }
     }
 }
